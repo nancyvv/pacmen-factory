@@ -1,11 +1,6 @@
-# pacmen-factory
-Exercise to create a pac-man on demand that will go from one side of the screen.
+# PacMen Factory Exercise
 
-Project Title:
-PacMen Factory Exercise
-
-Description:
-The goal of the exercise is to create a pacman on demand by clicling the 'Add PacMan' button. Once the pac man has been created, the animation would start by clicking 'Start Game.'
+The goal of this exercise is to create a pacman on demand by clicling the 'Add PacMan' button. Once the pac man has been created, the animation would start by clicking 'Start Game.'
 
 How to run:
 Load the index.html file into any browser. Once loaded, click on the 'Add PacMan' button, followed by the 'Start Game' button. 
